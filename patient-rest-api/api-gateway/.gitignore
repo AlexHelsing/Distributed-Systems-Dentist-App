@@ -1,0 +1,28 @@
+#npm
+node_modules/
+package-lock.json
+
+npm-debug.log
+*.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Distribution directory
+dist/
+out/
+
+# Sensitive or environment-specific files
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
